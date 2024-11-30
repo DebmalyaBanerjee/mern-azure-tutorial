@@ -1,8 +1,8 @@
-1. Create resource group.
-2. Create app service plan.
-3. Craete app service/web app.
-4. Create GitHub repo.
-5. Connect GitHub to Azure.
+1. Create resource group. - done
+2. Create app service plan. - done
+3. Craete app service/web app. - done
+4. Create GitHub repo. - done
+5. Connect GitHub to Azure. - done
 6. Write script for production in server.js
 7. change baseurl
 8. build client static files.
